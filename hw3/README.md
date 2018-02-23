@@ -1,0 +1,1 @@
+Homework3主要考察了基本的数据探索工作，包括数据的统计指标、数据可视化。之后考察了多元回归的操作，包括显著性检验、向前向后法(Step-wise forward selection / Step-wise backward selection)以及交叉验证。

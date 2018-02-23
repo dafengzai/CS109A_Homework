@@ -1,0 +1,1 @@
+Homework1主要考察了使用爬虫库scipy来抓取Wikipedia的Billboard音乐榜数据与使用bs4的BeautifulSoup来对抓取的网页进行信息提取与处理，最后再进行些数据统计。

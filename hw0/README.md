@@ -1,0 +1,1 @@
+Homework0主要考察了numpy库和matplotlib库的一些基本使用，并用他们进行一些基本的统计推断。
